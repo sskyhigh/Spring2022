@@ -1,0 +1,10 @@
+getName
+MyVar
+5num
+Count
+Character
+3test
+Header
+2id
+val
+Scanner
